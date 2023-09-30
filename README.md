@@ -1,4 +1,4 @@
 # Chat_Application
 Chat Application with Backend in Express.js &amp; MongoDB
 <br>
-This is the first iteration of this project & only simple modification and changes will be made
+This is the first iteration of this project & only simple modification and changes will be made ...All right
